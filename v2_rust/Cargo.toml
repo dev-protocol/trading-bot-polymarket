@@ -1,0 +1,26 @@
+[package]
+name = "v2-rust"
+version = "0.1.0"
+edition = "2021"
+description = "Rust fork of v2_python (standalone). Polymarket BTC 15m bot — market WSS + detector + pair orders"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+tokio-tungstenite = { version = "0.24", default-features = false, features = ["connect", "rustls-tls-webpki-roots"] }
+futures-util = "0.3"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+tracing-ethers = "0.2.5"
+anyhow = "1"
+thiserror = "1"
+hex = "0.4"
+dotenvy = "0.15"
+urlencoding = "2"
+ethers = { version = "2", default-features = false, features = ["rustls"] }
+alloy = { version = "1.7.3", features = ["signer-local"] }
+polymarket-client-sdk = { version = "0.4.3", features = ["clob"] }
+rustls = { version = "0.23.37", features = ["aws_lc_rs"] }
+

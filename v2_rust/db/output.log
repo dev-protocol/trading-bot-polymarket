@@ -1,0 +1,3814 @@
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773056700
+============================================================
+[INFO] WSS market  asset_ids: 68993792300038083837.. 70951797070704934717..
+[INFO] WSS user    condition_id: 0x98d808a733b44d77..
+[INFO] Window ends in  720s
+[INFO] User WSS skipped (auth/auth.json not found; run Python bot once to derive creds)
+[INFO] DRY RUN would place UP at 0.560 size=5.1
+[INFO] ORDER UP placed at 0.560 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.550 size=5.1
+[INFO] ORDER UP placed at 0.550 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 1 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773057600
+============================================================
+[INFO] WSS market  asset_ids: 26707340036429892781.. 36806892842621378950..
+[INFO] WSS user    condition_id: 0x569e4b43c05f2a3e..
+[INFO] Window ends in  781s
+[INFO] User WSS skipped (auth/auth.json not found; run Python bot once to derive creds)
+[INFO] ORDER UP placed at 0.680 size=5.1 status=stub
+[INFO] ORDER UP placed at 0.700 size=5.1 status=stub
+[INFO] ORDER UP placed at 0.690 size=5.1 status=stub
+[INFO] ORDER UP placed at 0.710 size=5.1 status=stub
+[INFO] ORDER UP placed at 0.710 size=5.1 status=stub
+[INFO] ORDER UP placed at 0.700 size=5.1 status=stub
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 2 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773058500
+============================================================
+[INFO] WSS market  asset_ids: 90064020539430720718.. 19583060852016813449..
+[INFO] WSS user    condition_id: 0x8ad6291f139d6cdb..
+[INFO] Window ends in  630s
+[INFO] ORDER UP failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 3 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773058500
+============================================================
+[INFO] WSS market  asset_ids: 90064020539430720718.. 19583060852016813449..
+[INFO] WSS user    condition_id: 0x8ad6291f139d6cdb..
+[INFO] Window ends in  513s
+[INFO] ORDER UP failed (check pair_orders / API logs)
+[INFO] ORDER UP failed (check pair_orders / API logs)
+[INFO] ORDER UP failed (check pair_orders / API logs)
+
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773082800
+============================================================
+[INFO] WSS market  asset_ids: 42234372523632343999.. 10524348929370839419..
+[INFO] WSS user    condition_id: 0x6bfca25d5e3dbc93..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773082800
+============================================================
+[INFO] WSS market  asset_ids: 42234372523632343999.. 10524348929370839419..
+[INFO] WSS user    condition_id: 0x6bfca25d5e3dbc93..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773082800
+============================================================
+[INFO] WSS market  asset_ids: 42234372523632343999.. 10524348929370839419..
+[INFO] WSS user    condition_id: 0x6bfca25d5e3dbc93..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773082800
+============================================================
+[INFO] WSS market  asset_ids: 42234372523632343999.. 10524348929370839419..
+[INFO] WSS user    condition_id: 0x6bfca25d5e3dbc93..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773082800
+============================================================
+[INFO] WSS market  asset_ids: 42234372523632343999.. 10524348929370839419..
+[INFO] WSS user    condition_id: 0x6bfca25d5e3dbc93..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773083700
+============================================================
+[INFO] WSS market  asset_ids: 11307551036987830651.. 19614100729776944765..
+[INFO] WSS user    condition_id: 0x83ebd05b5b81586c..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773083700
+============================================================
+[INFO] WSS market  asset_ids: 11307551036987830651.. 19614100729776944765..
+[INFO] WSS user    condition_id: 0x83ebd05b5b81586c..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773083700
+============================================================
+[INFO] WSS market  asset_ids: 11307551036987830651.. 19614100729776944765..
+[INFO] WSS user    condition_id: 0x83ebd05b5b81586c..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773083700
+============================================================
+[INFO] WSS market  asset_ids: 11307551036987830651.. 19614100729776944765..
+[INFO] WSS user    condition_id: 0x83ebd05b5b81586c..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773083700
+============================================================
+[INFO] WSS market  asset_ids: 11307551036987830651.. 19614100729776944765..
+[INFO] WSS user    condition_id: 0x83ebd05b5b81586c..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773084600
+============================================================
+[INFO] WSS market  asset_ids: 10799378025765941247.. 28782789377744859201..
+[INFO] WSS user    condition_id: 0x01001dac9ae7a51c..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773084600
+============================================================
+[INFO] WSS market  asset_ids: 10799378025765941247.. 28782789377744859201..
+[INFO] WSS user    condition_id: 0x01001dac9ae7a51c..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773084600
+============================================================
+[INFO] WSS market  asset_ids: 10799378025765941247.. 28782789377744859201..
+[INFO] WSS user    condition_id: 0x01001dac9ae7a51c..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773084600
+============================================================
+[INFO] WSS market  asset_ids: 10799378025765941247.. 28782789377744859201..
+[INFO] WSS user    condition_id: 0x01001dac9ae7a51c..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773084600
+============================================================
+[INFO] WSS market  asset_ids: 10799378025765941247.. 28782789377744859201..
+[INFO] WSS user    condition_id: 0x01001dac9ae7a51c..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773084600
+============================================================
+[INFO] WSS market  asset_ids: 10799378025765941247.. 28782789377744859201..
+[INFO] WSS user    condition_id: 0x01001dac9ae7a51c..
+[INFO] Window ends in  0s
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773085500
+============================================================
+[INFO] WSS market  asset_ids: 82868050788642420639.. 85790453430640966971..
+[INFO] WSS user    condition_id: 0xe493d5a802678135..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773085500
+============================================================
+[INFO] WSS market  asset_ids: 82868050788642420639.. 85790453430640966971..
+[INFO] WSS user    condition_id: 0xe493d5a802678135..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773085500
+============================================================
+[INFO] WSS market  asset_ids: 82868050788642420639.. 85790453430640966971..
+[INFO] WSS user    condition_id: 0xe493d5a802678135..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773085500
+============================================================
+[INFO] WSS market  asset_ids: 82868050788642420639.. 85790453430640966971..
+[INFO] WSS user    condition_id: 0xe493d5a802678135..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773085500
+============================================================
+[INFO] WSS market  asset_ids: 82868050788642420639.. 85790453430640966971..
+[INFO] WSS user    condition_id: 0xe493d5a802678135..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773085500
+============================================================
+[INFO] WSS market  asset_ids: 82868050788642420639.. 85790453430640966971..
+[INFO] WSS user    condition_id: 0xe493d5a802678135..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  899s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773087300
+============================================================
+[INFO] WSS market  asset_ids: 72406994515003861944.. 10558662292150168357..
+[INFO] WSS user    condition_id: 0x5a300c31e036a97a..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773087300
+============================================================
+[INFO] WSS market  asset_ids: 72406994515003861944.. 10558662292150168357..
+[INFO] WSS user    condition_id: 0x5a300c31e036a97a..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773087300
+============================================================
+[INFO] WSS market  asset_ids: 72406994515003861944.. 10558662292150168357..
+[INFO] WSS user    condition_id: 0x5a300c31e036a97a..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773087300
+============================================================
+[INFO] WSS market  asset_ids: 72406994515003861944.. 10558662292150168357..
+[INFO] WSS user    condition_id: 0x5a300c31e036a97a..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773087300
+============================================================
+[INFO] WSS market  asset_ids: 72406994515003861944.. 10558662292150168357..
+[INFO] WSS user    condition_id: 0x5a300c31e036a97a..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773087300
+============================================================
+[INFO] WSS market  asset_ids: 72406994515003861944.. 10558662292150168357..
+[INFO] WSS user    condition_id: 0x5a300c31e036a97a..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773089100
+============================================================
+[INFO] WSS market  asset_ids: 86603313232792621796.. 81772119753708447237..
+[INFO] WSS user    condition_id: 0x0b33b08739d0f962..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773089100
+============================================================
+[INFO] WSS market  asset_ids: 86603313232792621796.. 81772119753708447237..
+[INFO] WSS user    condition_id: 0x0b33b08739d0f962..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773089100
+============================================================
+[INFO] WSS market  asset_ids: 86603313232792621796.. 81772119753708447237..
+[INFO] WSS user    condition_id: 0x0b33b08739d0f962..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773089100
+============================================================
+[INFO] WSS market  asset_ids: 86603313232792621796.. 81772119753708447237..
+[INFO] WSS user    condition_id: 0x0b33b08739d0f962..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773089100
+============================================================
+[INFO] WSS market  asset_ids: 86603313232792621796.. 81772119753708447237..
+[INFO] WSS user    condition_id: 0x0b33b08739d0f962..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  899s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  899s
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  469s
+[INFO] User WSS skipped (auth/auth.json not found; run Python bot once to derive creds)
+[INFO] DRY RUN would place DOWN at 0.960 size=5.1
+[INFO] ORDER DOWN placed at 0.960 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.950 size=5.1
+[INFO] ORDER DOWN placed at 0.950 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.940 size=5.1
+[INFO] ORDER DOWN placed at 0.940 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.930 size=5.1
+[INFO] ORDER DOWN placed at 0.930 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.940 size=5.1
+[INFO] ORDER DOWN placed at 0.940 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  395s
+[INFO] User WSS skipped (auth/auth.json not found; run Python bot once to derive creds)
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  195s
+[INFO] User WSS skipped (no API credentials; set PRIVATE_KEY to derive auth/auth.json)
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  174s
+[INFO] User WSS skipped (no API credentials; set PRIVATE_KEY to derive auth/auth.json)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  146s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  98s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  85s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  74s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 14 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  58s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773092700
+============================================================
+[INFO] WSS market  asset_ids: 60233750896786590851.. 68687928414846836211..
+[INFO] WSS user    condition_id: 0xef81c5bd71da2f26..
+[INFO] Window ends in  900s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773092700
+============================================================
+[INFO] WSS market  asset_ids: 60233750896786590851.. 68687928414846836211..
+[INFO] WSS user    condition_id: 0xef81c5bd71da2f26..
+[INFO] Window ends in  899s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 15 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  873s
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 15 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  750s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 15 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  728s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x8273…0afb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=None
+[INFO] STARTUP would redeem 15 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  349s
+[INFO] ORDER UP failed (check pair_orders / API logs)
+[INFO] ORDER UP failed (check pair_orders / API logs)
+[INFO] ORDER UP failed (check pair_orders / API logs)
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773092700
+============================================================
+[INFO] WSS market  asset_ids: 60233750896786590851.. 68687928414846836211..
+[INFO] WSS user    condition_id: 0xef81c5bd71da2f26..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773092700
+============================================================
+[INFO] WSS market  asset_ids: 60233750896786590851.. 68687928414846836211..
+[INFO] WSS user    condition_id: 0xef81c5bd71da2f26..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773092700
+============================================================
+[INFO] WSS market  asset_ids: 60233750896786590851.. 68687928414846836211..
+[INFO] WSS user    condition_id: 0xef81c5bd71da2f26..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773092700
+============================================================
+[INFO] WSS market  asset_ids: 60233750896786590851.. 68687928414846836211..
+[INFO] WSS user    condition_id: 0xef81c5bd71da2f26..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x3fd9…354d POL balance=4922417503876370231 wei
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773094500
+============================================================
+[INFO] WSS market  asset_ids: 45612422135202521623.. 47162567749446819378..
+[INFO] WSS user    condition_id: 0xbe9c7dbc9f6d90f1..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.540 size=5.1
+[INFO] ORDER UP placed at 0.540 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.540 size=5.1
+[INFO] ORDER UP placed at 0.540 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773094500
+============================================================
+[INFO] WSS market  asset_ids: 45612422135202521623.. 47162567749446819378..
+[INFO] WSS user    condition_id: 0xbe9c7dbc9f6d90f1..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773094500
+============================================================
+[INFO] WSS market  asset_ids: 45612422135202521623.. 47162567749446819378..
+[INFO] WSS user    condition_id: 0xbe9c7dbc9f6d90f1..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773094500
+============================================================
+[INFO] WSS market  asset_ids: 45612422135202521623.. 47162567749446819378..
+[INFO] WSS user    condition_id: 0xbe9c7dbc9f6d90f1..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773094500
+============================================================
+[INFO] WSS market  asset_ids: 45612422135202521623.. 47162567749446819378..
+[INFO] WSS user    condition_id: 0xbe9c7dbc9f6d90f1..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  899s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  899s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  900s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.580 size=5.1
+[INFO] ORDER UP placed at 0.580 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.580 size=5.1
+[INFO] ORDER UP placed at 0.580 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.590 size=5.1
+[INFO] ORDER UP placed at 0.590 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.580 size=5.1
+[INFO] ORDER UP placed at 0.580 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773102600
+============================================================
+[INFO] WSS market  asset_ids: 84208858119196721157.. 82885779451838640272..
+[INFO] WSS user    condition_id: 0x3243ab30002a7e41..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773102600
+============================================================
+[INFO] WSS market  asset_ids: 84208858119196721157.. 82885779451838640272..
+[INFO] WSS user    condition_id: 0x3243ab30002a7e41..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773102600
+============================================================
+[INFO] WSS market  asset_ids: 84208858119196721157.. 82885779451838640272..
+[INFO] WSS user    condition_id: 0x3243ab30002a7e41..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773102600
+============================================================
+[INFO] WSS market  asset_ids: 84208858119196721157.. 82885779451838640272..
+[INFO] WSS user    condition_id: 0x3243ab30002a7e41..
+[INFO] Window ends in  2s
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773102600
+============================================================
+[INFO] WSS market  asset_ids: 84208858119196721157.. 82885779451838640272..
+[INFO] WSS user    condition_id: 0x3243ab30002a7e41..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773102600
+============================================================
+[INFO] WSS market  asset_ids: 84208858119196721157.. 82885779451838640272..
+[INFO] WSS user    condition_id: 0x3243ab30002a7e41..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773103500
+============================================================
+[INFO] WSS market  asset_ids: 45800749103240240476.. 45882828850268307180..
+[INFO] WSS user    condition_id: 0xb55077195f1c292e..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773103500
+============================================================
+[INFO] WSS market  asset_ids: 45800749103240240476.. 45882828850268307180..
+[INFO] WSS user    condition_id: 0xb55077195f1c292e..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773103500
+============================================================
+[INFO] WSS market  asset_ids: 45800749103240240476.. 45882828850268307180..
+[INFO] WSS user    condition_id: 0xb55077195f1c292e..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773103500
+============================================================
+[INFO] WSS market  asset_ids: 45800749103240240476.. 45882828850268307180..
+[INFO] WSS user    condition_id: 0xb55077195f1c292e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773103500
+============================================================
+[INFO] WSS market  asset_ids: 45800749103240240476.. 45882828850268307180..
+[INFO] WSS user    condition_id: 0xb55077195f1c292e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773103500
+============================================================
+[INFO] WSS market  asset_ids: 45800749103240240476.. 45882828850268307180..
+[INFO] WSS user    condition_id: 0xb55077195f1c292e..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773104400
+============================================================
+[INFO] WSS market  asset_ids: 16197088867644844168.. 72485297178410261651..
+[INFO] WSS user    condition_id: 0x0511be819b537329..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773104400
+============================================================
+[INFO] WSS market  asset_ids: 16197088867644844168.. 72485297178410261651..
+[INFO] WSS user    condition_id: 0x0511be819b537329..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773104400
+============================================================
+[INFO] WSS market  asset_ids: 16197088867644844168.. 72485297178410261651..
+[INFO] WSS user    condition_id: 0x0511be819b537329..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773104400
+============================================================
+[INFO] WSS market  asset_ids: 16197088867644844168.. 72485297178410261651..
+[INFO] WSS user    condition_id: 0x0511be819b537329..
+[INFO] Window ends in  2s
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773104400
+============================================================
+[INFO] WSS market  asset_ids: 16197088867644844168.. 72485297178410261651..
+[INFO] WSS user    condition_id: 0x0511be819b537329..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773105300
+============================================================
+[INFO] WSS market  asset_ids: 53023092986020196382.. 11149013431655157744..
+[INFO] WSS user    condition_id: 0xae78def59c3e1318..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773105300
+============================================================
+[INFO] WSS market  asset_ids: 53023092986020196382.. 11149013431655157744..
+[INFO] WSS user    condition_id: 0xae78def59c3e1318..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773105300
+============================================================
+[INFO] WSS market  asset_ids: 53023092986020196382.. 11149013431655157744..
+[INFO] WSS user    condition_id: 0xae78def59c3e1318..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773105300
+============================================================
+[INFO] WSS market  asset_ids: 53023092986020196382.. 11149013431655157744..
+[INFO] WSS user    condition_id: 0xae78def59c3e1318..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773105300
+============================================================
+[INFO] WSS market  asset_ids: 53023092986020196382.. 11149013431655157744..
+[INFO] WSS user    condition_id: 0xae78def59c3e1318..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773105300
+============================================================
+[INFO] WSS market  asset_ids: 53023092986020196382.. 11149013431655157744..
+[INFO] WSS user    condition_id: 0xae78def59c3e1318..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773106200
+============================================================
+[INFO] WSS market  asset_ids: 69111612932906493798.. 57215281997091589825..
+[INFO] WSS user    condition_id: 0xee7f037e41b0930e..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773106200
+============================================================
+[INFO] WSS market  asset_ids: 69111612932906493798.. 57215281997091589825..
+[INFO] WSS user    condition_id: 0xee7f037e41b0930e..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773106200
+============================================================
+[INFO] WSS market  asset_ids: 69111612932906493798.. 57215281997091589825..
+[INFO] WSS user    condition_id: 0xee7f037e41b0930e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773106200
+============================================================
+[INFO] WSS market  asset_ids: 69111612932906493798.. 57215281997091589825..
+[INFO] WSS user    condition_id: 0xee7f037e41b0930e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773106200
+============================================================
+[INFO] WSS market  asset_ids: 69111612932906493798.. 57215281997091589825..
+[INFO] WSS user    condition_id: 0xee7f037e41b0930e..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773107100
+============================================================
+[INFO] WSS market  asset_ids: 28179693083768642618.. 27858914206737112763..
+[INFO] WSS user    condition_id: 0x0283cf91156c6f78..
+[INFO] Window ends in  900s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773107100
+============================================================
+[INFO] WSS market  asset_ids: 28179693083768642618.. 27858914206737112763..
+[INFO] WSS user    condition_id: 0x0283cf91156c6f78..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773107100
+============================================================
+[INFO] WSS market  asset_ids: 28179693083768642618.. 27858914206737112763..
+[INFO] WSS user    condition_id: 0x0283cf91156c6f78..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773107100
+============================================================
+[INFO] WSS market  asset_ids: 28179693083768642618.. 27858914206737112763..
+[INFO] WSS user    condition_id: 0x0283cf91156c6f78..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773107100
+============================================================
+[INFO] WSS market  asset_ids: 28179693083768642618.. 27858914206737112763..
+[INFO] WSS user    condition_id: 0x0283cf91156c6f78..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773107100
+============================================================
+[INFO] WSS market  asset_ids: 28179693083768642618.. 27858914206737112763..
+[INFO] WSS user    condition_id: 0x0283cf91156c6f78..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108000
+============================================================
+[INFO] WSS market  asset_ids: 96710237756785976993.. 64202895206367671297..
+[INFO] WSS user    condition_id: 0xaa21af83304ea301..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108000
+============================================================
+[INFO] WSS market  asset_ids: 96710237756785976993.. 64202895206367671297..
+[INFO] WSS user    condition_id: 0xaa21af83304ea301..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108000
+============================================================
+[INFO] WSS market  asset_ids: 96710237756785976993.. 64202895206367671297..
+[INFO] WSS user    condition_id: 0xaa21af83304ea301..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108000
+============================================================
+[INFO] WSS market  asset_ids: 96710237756785976993.. 64202895206367671297..
+[INFO] WSS user    condition_id: 0xaa21af83304ea301..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108000
+============================================================
+[INFO] WSS market  asset_ids: 96710237756785976993.. 64202895206367671297..
+[INFO] WSS user    condition_id: 0xaa21af83304ea301..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108000
+============================================================
+[INFO] WSS market  asset_ids: 96710237756785976993.. 64202895206367671297..
+[INFO] WSS user    condition_id: 0xaa21af83304ea301..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108900
+============================================================
+[INFO] WSS market  asset_ids: 71104947601735296463.. 58360381260799134936..
+[INFO] WSS user    condition_id: 0x4f87fbd0c631ab74..
+[INFO] Window ends in  899s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108900
+============================================================
+[INFO] WSS market  asset_ids: 71104947601735296463.. 58360381260799134936..
+[INFO] WSS user    condition_id: 0x4f87fbd0c631ab74..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108900
+============================================================
+[INFO] WSS market  asset_ids: 71104947601735296463.. 58360381260799134936..
+[INFO] WSS user    condition_id: 0x4f87fbd0c631ab74..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108900
+============================================================
+[INFO] WSS market  asset_ids: 71104947601735296463.. 58360381260799134936..
+[INFO] WSS user    condition_id: 0x4f87fbd0c631ab74..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773108900
+============================================================
+[INFO] WSS market  asset_ids: 71104947601735296463.. 58360381260799134936..
+[INFO] WSS user    condition_id: 0x4f87fbd0c631ab74..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773109800
+============================================================
+[INFO] WSS market  asset_ids: 50170799149918767115.. 34029212104084282781..
+[INFO] WSS user    condition_id: 0x257abcbf8cc1ffb0..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773109800
+============================================================
+[INFO] WSS market  asset_ids: 50170799149918767115.. 34029212104084282781..
+[INFO] WSS user    condition_id: 0x257abcbf8cc1ffb0..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773109800
+============================================================
+[INFO] WSS market  asset_ids: 50170799149918767115.. 34029212104084282781..
+[INFO] WSS user    condition_id: 0x257abcbf8cc1ffb0..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773109800
+============================================================
+[INFO] WSS market  asset_ids: 50170799149918767115.. 34029212104084282781..
+[INFO] WSS user    condition_id: 0x257abcbf8cc1ffb0..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773109800
+============================================================
+[INFO] WSS market  asset_ids: 50170799149918767115.. 34029212104084282781..
+[INFO] WSS user    condition_id: 0x257abcbf8cc1ffb0..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773109800
+============================================================
+[INFO] WSS market  asset_ids: 50170799149918767115.. 34029212104084282781..
+[INFO] WSS user    condition_id: 0x257abcbf8cc1ffb0..
+[INFO] Window ends in  0s
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773110700
+============================================================
+[INFO] WSS market  asset_ids: 49140720281635773912.. 41834043750689372025..
+[INFO] WSS user    condition_id: 0x8f47e08e377f0755..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773110700
+============================================================
+[INFO] WSS market  asset_ids: 49140720281635773912.. 41834043750689372025..
+[INFO] WSS user    condition_id: 0x8f47e08e377f0755..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773110700
+============================================================
+[INFO] WSS market  asset_ids: 49140720281635773912.. 41834043750689372025..
+[INFO] WSS user    condition_id: 0x8f47e08e377f0755..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773110700
+============================================================
+[INFO] WSS market  asset_ids: 49140720281635773912.. 41834043750689372025..
+[INFO] WSS user    condition_id: 0x8f47e08e377f0755..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773110700
+============================================================
+[INFO] WSS market  asset_ids: 49140720281635773912.. 41834043750689372025..
+[INFO] WSS user    condition_id: 0x8f47e08e377f0755..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773110700
+============================================================
+[INFO] WSS market  asset_ids: 49140720281635773912.. 41834043750689372025..
+[INFO] WSS user    condition_id: 0x8f47e08e377f0755..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773111600
+============================================================
+[INFO] WSS market  asset_ids: 30694234126732290784.. 16287992687843222718..
+[INFO] WSS user    condition_id: 0xfb00028dc4bc88a7..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773111600
+============================================================
+[INFO] WSS market  asset_ids: 30694234126732290784.. 16287992687843222718..
+[INFO] WSS user    condition_id: 0xfb00028dc4bc88a7..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773111600
+============================================================
+[INFO] WSS market  asset_ids: 30694234126732290784.. 16287992687843222718..
+[INFO] WSS user    condition_id: 0xfb00028dc4bc88a7..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773111600
+============================================================
+[INFO] WSS market  asset_ids: 30694234126732290784.. 16287992687843222718..
+[INFO] WSS user    condition_id: 0xfb00028dc4bc88a7..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773111600
+============================================================
+[INFO] WSS market  asset_ids: 30694234126732290784.. 16287992687843222718..
+[INFO] WSS user    condition_id: 0xfb00028dc4bc88a7..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773112500
+============================================================
+[INFO] WSS market  asset_ids: 16431588785430981645.. 10271542604322278480..
+[INFO] WSS user    condition_id: 0xfafb4be3f34a7e76..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773112500
+============================================================
+[INFO] WSS market  asset_ids: 16431588785430981645.. 10271542604322278480..
+[INFO] WSS user    condition_id: 0xfafb4be3f34a7e76..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773112500
+============================================================
+[INFO] WSS market  asset_ids: 16431588785430981645.. 10271542604322278480..
+[INFO] WSS user    condition_id: 0xfafb4be3f34a7e76..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773112500
+============================================================
+[INFO] WSS market  asset_ids: 16431588785430981645.. 10271542604322278480..
+[INFO] WSS user    condition_id: 0xfafb4be3f34a7e76..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773112500
+============================================================
+[INFO] WSS market  asset_ids: 16431588785430981645.. 10271542604322278480..
+[INFO] WSS user    condition_id: 0xfafb4be3f34a7e76..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773112500
+============================================================
+[INFO] WSS market  asset_ids: 16431588785430981645.. 10271542604322278480..
+[INFO] WSS user    condition_id: 0xfafb4be3f34a7e76..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773113400
+============================================================
+[INFO] WSS market  asset_ids: 92909988406197350021.. 10531462585916031479..
+[INFO] WSS user    condition_id: 0x808f9aecdd92777e..
+[INFO] Window ends in  899s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773113400
+============================================================
+[INFO] WSS market  asset_ids: 92909988406197350021.. 10531462585916031479..
+[INFO] WSS user    condition_id: 0x808f9aecdd92777e..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773113400
+============================================================
+[INFO] WSS market  asset_ids: 92909988406197350021.. 10531462585916031479..
+[INFO] WSS user    condition_id: 0x808f9aecdd92777e..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773113400
+============================================================
+[INFO] WSS market  asset_ids: 92909988406197350021.. 10531462585916031479..
+[INFO] WSS user    condition_id: 0x808f9aecdd92777e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773113400
+============================================================
+[INFO] WSS market  asset_ids: 92909988406197350021.. 10531462585916031479..
+[INFO] WSS user    condition_id: 0x808f9aecdd92777e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773113400
+============================================================
+[INFO] WSS market  asset_ids: 92909988406197350021.. 10531462585916031479..
+[INFO] WSS user    condition_id: 0x808f9aecdd92777e..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773114300
+============================================================
+[INFO] WSS market  asset_ids: 79598916070979402521.. 10272866440805501781..
+[INFO] WSS user    condition_id: 0x48e9a470cf1d4639..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773114300
+============================================================
+[INFO] WSS market  asset_ids: 79598916070979402521.. 10272866440805501781..
+[INFO] WSS user    condition_id: 0x48e9a470cf1d4639..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773114300
+============================================================
+[INFO] WSS market  asset_ids: 79598916070979402521.. 10272866440805501781..
+[INFO] WSS user    condition_id: 0x48e9a470cf1d4639..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773114300
+============================================================
+[INFO] WSS market  asset_ids: 79598916070979402521.. 10272866440805501781..
+[INFO] WSS user    condition_id: 0x48e9a470cf1d4639..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773114300
+============================================================
+[INFO] WSS market  asset_ids: 79598916070979402521.. 10272866440805501781..
+[INFO] WSS user    condition_id: 0x48e9a470cf1d4639..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773115200
+============================================================
+[INFO] WSS market  asset_ids: 46567744575994950705.. 61932646273242998850..
+[INFO] WSS user    condition_id: 0xdbed82d4e19a8099..
+[INFO] Window ends in  900s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773115200
+============================================================
+[INFO] WSS market  asset_ids: 46567744575994950705.. 61932646273242998850..
+[INFO] WSS user    condition_id: 0xdbed82d4e19a8099..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773115200
+============================================================
+[INFO] WSS market  asset_ids: 46567744575994950705.. 61932646273242998850..
+[INFO] WSS user    condition_id: 0xdbed82d4e19a8099..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773115200
+============================================================
+[INFO] WSS market  asset_ids: 46567744575994950705.. 61932646273242998850..
+[INFO] WSS user    condition_id: 0xdbed82d4e19a8099..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773115200
+============================================================
+[INFO] WSS market  asset_ids: 46567744575994950705.. 61932646273242998850..
+[INFO] WSS user    condition_id: 0xdbed82d4e19a8099..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773115200
+============================================================
+[INFO] WSS market  asset_ids: 46567744575994950705.. 61932646273242998850..
+[INFO] WSS user    condition_id: 0xdbed82d4e19a8099..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773116100
+============================================================
+[INFO] WSS market  asset_ids: 43551201049540592344.. 10997480819186469018..
+[INFO] WSS user    condition_id: 0x391161402c940b3e..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773116100
+============================================================
+[INFO] WSS market  asset_ids: 43551201049540592344.. 10997480819186469018..
+[INFO] WSS user    condition_id: 0x391161402c940b3e..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773116100
+============================================================
+[INFO] WSS market  asset_ids: 43551201049540592344.. 10997480819186469018..
+[INFO] WSS user    condition_id: 0x391161402c940b3e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773116100
+============================================================
+[INFO] WSS market  asset_ids: 43551201049540592344.. 10997480819186469018..
+[INFO] WSS user    condition_id: 0x391161402c940b3e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773116100
+============================================================
+[INFO] WSS market  asset_ids: 43551201049540592344.. 10997480819186469018..
+[INFO] WSS user    condition_id: 0x391161402c940b3e..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117000
+============================================================
+[INFO] WSS market  asset_ids: 85809513143618404601.. 78499817829226639067..
+[INFO] WSS user    condition_id: 0xd1d817540c21bebb..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117000
+============================================================
+[INFO] WSS market  asset_ids: 85809513143618404601.. 78499817829226639067..
+[INFO] WSS user    condition_id: 0xd1d817540c21bebb..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117000
+============================================================
+[INFO] WSS market  asset_ids: 85809513143618404601.. 78499817829226639067..
+[INFO] WSS user    condition_id: 0xd1d817540c21bebb..
+[INFO] Window ends in  3s
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117000
+============================================================
+[INFO] WSS market  asset_ids: 85809513143618404601.. 78499817829226639067..
+[INFO] WSS user    condition_id: 0xd1d817540c21bebb..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117000
+============================================================
+[INFO] WSS market  asset_ids: 85809513143618404601.. 78499817829226639067..
+[INFO] WSS user    condition_id: 0xd1d817540c21bebb..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117900
+============================================================
+[INFO] WSS market  asset_ids: 31112956190111611876.. 25718447227008223059..
+[INFO] WSS user    condition_id: 0x34e30aabc84b1e9d..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117900
+============================================================
+[INFO] WSS market  asset_ids: 31112956190111611876.. 25718447227008223059..
+[INFO] WSS user    condition_id: 0x34e30aabc84b1e9d..
+[INFO] Window ends in  5s
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117900
+============================================================
+[INFO] WSS market  asset_ids: 31112956190111611876.. 25718447227008223059..
+[INFO] WSS user    condition_id: 0x34e30aabc84b1e9d..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117900
+============================================================
+[INFO] WSS market  asset_ids: 31112956190111611876.. 25718447227008223059..
+[INFO] WSS user    condition_id: 0x34e30aabc84b1e9d..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117900
+============================================================
+[INFO] WSS market  asset_ids: 31112956190111611876.. 25718447227008223059..
+[INFO] WSS user    condition_id: 0x34e30aabc84b1e9d..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773117900
+============================================================
+[INFO] WSS market  asset_ids: 31112956190111611876.. 25718447227008223059..
+[INFO] WSS user    condition_id: 0x34e30aabc84b1e9d..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773118800
+============================================================
+[INFO] WSS market  asset_ids: 83791424201334284239.. 10769275084916134409..
+[INFO] WSS user    condition_id: 0xda452d38e25f2eb8..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773118800
+============================================================
+[INFO] WSS market  asset_ids: 83791424201334284239.. 10769275084916134409..
+[INFO] WSS user    condition_id: 0xda452d38e25f2eb8..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773118800
+============================================================
+[INFO] WSS market  asset_ids: 83791424201334284239.. 10769275084916134409..
+[INFO] WSS user    condition_id: 0xda452d38e25f2eb8..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773118800
+============================================================
+[INFO] WSS market  asset_ids: 83791424201334284239.. 10769275084916134409..
+[INFO] WSS user    condition_id: 0xda452d38e25f2eb8..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773118800
+============================================================
+[INFO] WSS market  asset_ids: 83791424201334284239.. 10769275084916134409..
+[INFO] WSS user    condition_id: 0xda452d38e25f2eb8..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773119700
+============================================================
+[INFO] WSS market  asset_ids: 66580360559607752522.. 71805894789391366918..
+[INFO] WSS user    condition_id: 0x656fce1dd5c02366..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place DOWN at 0.580 size=5.1
+[INFO] ORDER DOWN placed at 0.580 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.590 size=5.1
+[INFO] ORDER DOWN placed at 0.590 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773119700
+============================================================
+[INFO] WSS market  asset_ids: 66580360559607752522.. 71805894789391366918..
+[INFO] WSS user    condition_id: 0x656fce1dd5c02366..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773119700
+============================================================
+[INFO] WSS market  asset_ids: 66580360559607752522.. 71805894789391366918..
+[INFO] WSS user    condition_id: 0x656fce1dd5c02366..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773119700
+============================================================
+[INFO] WSS market  asset_ids: 66580360559607752522.. 71805894789391366918..
+[INFO] WSS user    condition_id: 0x656fce1dd5c02366..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773119700
+============================================================
+[INFO] WSS market  asset_ids: 66580360559607752522.. 71805894789391366918..
+[INFO] WSS user    condition_id: 0x656fce1dd5c02366..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773119700
+============================================================
+[INFO] WSS market  asset_ids: 66580360559607752522.. 71805894789391366918..
+[INFO] WSS user    condition_id: 0x656fce1dd5c02366..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773120600
+============================================================
+[INFO] WSS market  asset_ids: 54255637281297387475.. 78238036660972350225..
+[INFO] WSS user    condition_id: 0xecd95c15b9afd9d6..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773120600
+============================================================
+[INFO] WSS market  asset_ids: 54255637281297387475.. 78238036660972350225..
+[INFO] WSS user    condition_id: 0xecd95c15b9afd9d6..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773120600
+============================================================
+[INFO] WSS market  asset_ids: 54255637281297387475.. 78238036660972350225..
+[INFO] WSS user    condition_id: 0xecd95c15b9afd9d6..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773120600
+============================================================
+[INFO] WSS market  asset_ids: 54255637281297387475.. 78238036660972350225..
+[INFO] WSS user    condition_id: 0xecd95c15b9afd9d6..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773120600
+============================================================
+[INFO] WSS market  asset_ids: 54255637281297387475.. 78238036660972350225..
+[INFO] WSS user    condition_id: 0xecd95c15b9afd9d6..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773120600
+============================================================
+[INFO] WSS market  asset_ids: 54255637281297387475.. 78238036660972350225..
+[INFO] WSS user    condition_id: 0xecd95c15b9afd9d6..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773121500
+============================================================
+[INFO] WSS market  asset_ids: 10549787420166469011.. 17164583012432579309..
+[INFO] WSS user    condition_id: 0x700fea35c30a747e..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.510 size=5.1
+[INFO] ORDER DOWN placed at 0.510 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773121500
+============================================================
+[INFO] WSS market  asset_ids: 10549787420166469011.. 17164583012432579309..
+[INFO] WSS user    condition_id: 0x700fea35c30a747e..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773121500
+============================================================
+[INFO] WSS market  asset_ids: 10549787420166469011.. 17164583012432579309..
+[INFO] WSS user    condition_id: 0x700fea35c30a747e..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773121500
+============================================================
+[INFO] WSS market  asset_ids: 10549787420166469011.. 17164583012432579309..
+[INFO] WSS user    condition_id: 0x700fea35c30a747e..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773121500
+============================================================
+[INFO] WSS market  asset_ids: 10549787420166469011.. 17164583012432579309..
+[INFO] WSS user    condition_id: 0x700fea35c30a747e..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773122400
+============================================================
+[INFO] WSS market  asset_ids: 59882968243720622319.. 53538284021904067910..
+[INFO] WSS user    condition_id: 0x8462ee453839926c..
+[INFO] Window ends in  900s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773122400
+============================================================
+[INFO] WSS market  asset_ids: 59882968243720622319.. 53538284021904067910..
+[INFO] WSS user    condition_id: 0x8462ee453839926c..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773122400
+============================================================
+[INFO] WSS market  asset_ids: 59882968243720622319.. 53538284021904067910..
+[INFO] WSS user    condition_id: 0x8462ee453839926c..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773122400
+============================================================
+[INFO] WSS market  asset_ids: 59882968243720622319.. 53538284021904067910..
+[INFO] WSS user    condition_id: 0x8462ee453839926c..
+[INFO] Window ends in  2s
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773122400
+============================================================
+[INFO] WSS market  asset_ids: 59882968243720622319.. 53538284021904067910..
+[INFO] WSS user    condition_id: 0x8462ee453839926c..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773122400
+============================================================
+[INFO] WSS market  asset_ids: 59882968243720622319.. 53538284021904067910..
+[INFO] WSS user    condition_id: 0x8462ee453839926c..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773123300
+============================================================
+[INFO] WSS market  asset_ids: 33312991840457348413.. 61746269430380465977..
+[INFO] WSS user    condition_id: 0xe1418530b7d6d885..
+[INFO] Window ends in  899s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773123300
+============================================================
+[INFO] WSS market  asset_ids: 33312991840457348413.. 61746269430380465977..
+[INFO] WSS user    condition_id: 0xe1418530b7d6d885..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773123300
+============================================================
+[INFO] WSS market  asset_ids: 33312991840457348413.. 61746269430380465977..
+[INFO] WSS user    condition_id: 0xe1418530b7d6d885..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773123300
+============================================================
+[INFO] WSS market  asset_ids: 33312991840457348413.. 61746269430380465977..
+[INFO] WSS user    condition_id: 0xe1418530b7d6d885..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773123300
+============================================================
+[INFO] WSS market  asset_ids: 33312991840457348413.. 61746269430380465977..
+[INFO] WSS user    condition_id: 0xe1418530b7d6d885..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773124200
+============================================================
+[INFO] WSS market  asset_ids: 72268789354538038648.. 41255680577896945460..
+[INFO] WSS user    condition_id: 0x2626b159e26a8e05..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773124200
+============================================================
+[INFO] WSS market  asset_ids: 72268789354538038648.. 41255680577896945460..
+[INFO] WSS user    condition_id: 0x2626b159e26a8e05..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773124200
+============================================================
+[INFO] WSS market  asset_ids: 72268789354538038648.. 41255680577896945460..
+[INFO] WSS user    condition_id: 0x2626b159e26a8e05..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773124200
+============================================================
+[INFO] WSS market  asset_ids: 72268789354538038648.. 41255680577896945460..
+[INFO] WSS user    condition_id: 0x2626b159e26a8e05..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773124200
+============================================================
+[INFO] WSS market  asset_ids: 72268789354538038648.. 41255680577896945460..
+[INFO] WSS user    condition_id: 0x2626b159e26a8e05..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773124200
+============================================================
+[INFO] WSS market  asset_ids: 72268789354538038648.. 41255680577896945460..
+[INFO] WSS user    condition_id: 0x2626b159e26a8e05..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place DOWN at 0.590 size=5.1
+[INFO] ORDER DOWN placed at 0.590 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.590 size=5.1
+[INFO] ORDER DOWN placed at 0.590 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.560 size=5.1
+[INFO] ORDER DOWN placed at 0.560 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.580 size=5.1
+[INFO] ORDER DOWN placed at 0.580 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.580 size=5.1
+[INFO] ORDER DOWN placed at 0.580 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.590 size=5.1
+[INFO] ORDER DOWN placed at 0.590 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.680 size=5.1
+[INFO] ORDER DOWN placed at 0.680 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.710 size=5.1
+[INFO] ORDER DOWN placed at 0.710 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.710 size=5.1
+[INFO] ORDER DOWN placed at 0.710 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.670 size=5.1
+[INFO] ORDER DOWN placed at 0.670 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.670 size=5.1
+[INFO] ORDER DOWN placed at 0.670 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.680 size=5.1
+[INFO] ORDER DOWN placed at 0.680 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.710 size=5.1
+[INFO] ORDER DOWN placed at 0.710 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.710 size=5.1
+[INFO] ORDER DOWN placed at 0.710 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.700 size=5.1
+[INFO] ORDER DOWN placed at 0.700 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.740 size=5.1
+[INFO] ORDER DOWN placed at 0.740 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.770 size=5.1
+[INFO] ORDER DOWN placed at 0.770 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.810 size=5.1
+[INFO] ORDER DOWN placed at 0.810 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.800 size=5.1
+[INFO] ORDER DOWN placed at 0.800 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.800 size=5.1
+[INFO] ORDER DOWN placed at 0.800 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.840 size=5.1
+[INFO] ORDER DOWN placed at 0.840 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.850 size=5.1
+[INFO] ORDER DOWN placed at 0.850 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.840 size=5.1
+[INFO] ORDER DOWN placed at 0.840 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.850 size=5.1
+[INFO] ORDER DOWN placed at 0.850 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.850 size=5.1
+[INFO] ORDER DOWN placed at 0.850 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.820 size=5.1
+[INFO] ORDER DOWN placed at 0.820 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.830 size=5.1
+[INFO] ORDER DOWN placed at 0.830 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.840 size=5.1
+[INFO] ORDER DOWN placed at 0.840 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.820 size=5.1
+[INFO] ORDER DOWN placed at 0.820 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.810 size=5.1
+[INFO] ORDER DOWN placed at 0.810 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.800 size=5.1
+[INFO] ORDER DOWN placed at 0.800 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.790 size=5.1
+[INFO] ORDER DOWN placed at 0.790 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.780 size=5.1
+[INFO] ORDER DOWN placed at 0.780 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.780 size=5.1
+[INFO] ORDER DOWN placed at 0.780 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.740 size=5.1
+[INFO] ORDER DOWN placed at 0.740 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.730 size=5.1
+[INFO] ORDER DOWN placed at 0.730 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.730 size=5.1
+[INFO] ORDER DOWN placed at 0.730 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.780 size=5.1
+[INFO] ORDER DOWN placed at 0.780 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.810 size=5.1
+[INFO] ORDER DOWN placed at 0.810 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.790 size=5.1
+[INFO] ORDER DOWN placed at 0.790 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.810 size=5.1
+[INFO] ORDER DOWN placed at 0.810 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.840 size=5.1
+[INFO] ORDER DOWN placed at 0.840 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.870 size=5.1
+[INFO] ORDER DOWN placed at 0.870 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.860 size=5.1
+[INFO] ORDER DOWN placed at 0.860 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.900 size=5.1
+[INFO] ORDER DOWN placed at 0.900 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.940 size=5.1
+[INFO] ORDER DOWN placed at 0.940 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.930 size=5.1
+[INFO] ORDER DOWN placed at 0.930 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.930 size=5.1
+[INFO] ORDER DOWN placed at 0.930 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.920 size=5.1
+[INFO] ORDER DOWN placed at 0.920 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.910 size=5.1
+[INFO] ORDER DOWN placed at 0.910 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.900 size=5.1
+[INFO] ORDER DOWN placed at 0.900 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.910 size=5.1
+[INFO] ORDER DOWN placed at 0.910 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.910 size=5.1
+[INFO] ORDER DOWN placed at 0.910 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.920 size=5.1
+[INFO] ORDER DOWN placed at 0.920 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.870 size=5.1
+[INFO] ORDER DOWN placed at 0.870 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.870 size=5.1
+[INFO] ORDER DOWN placed at 0.870 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.910 size=5.1
+[INFO] ORDER DOWN placed at 0.910 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.880 size=5.1
+[INFO] ORDER DOWN placed at 0.880 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.860 size=5.1
+[INFO] ORDER DOWN placed at 0.860 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.860 size=5.1
+[INFO] ORDER DOWN placed at 0.860 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.850 size=5.1
+[INFO] ORDER DOWN placed at 0.850 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.850 size=5.1
+[INFO] ORDER DOWN placed at 0.850 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.790 size=5.1
+[INFO] ORDER DOWN placed at 0.790 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.770 size=5.1
+[INFO] ORDER DOWN placed at 0.770 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.740 size=5.1
+[INFO] ORDER DOWN placed at 0.740 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.900 size=5.1
+[INFO] ORDER DOWN placed at 0.900 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.890 size=5.1
+[INFO] ORDER DOWN placed at 0.890 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.880 size=5.1
+[INFO] ORDER DOWN placed at 0.880 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.880 size=5.1
+[INFO] ORDER DOWN placed at 0.880 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.870 size=5.1
+[INFO] ORDER DOWN placed at 0.870 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.860 size=5.1
+[INFO] ORDER DOWN placed at 0.860 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.860 size=5.1
+[INFO] ORDER DOWN placed at 0.860 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.860 size=5.1
+[INFO] ORDER DOWN placed at 0.860 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.920 size=5.1
+[INFO] ORDER DOWN placed at 0.920 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.920 size=5.1
+[INFO] ORDER DOWN placed at 0.920 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.910 size=5.1
+[INFO] ORDER DOWN placed at 0.910 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.900 size=5.1
+[INFO] ORDER DOWN placed at 0.900 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.920 size=5.1
+[INFO] ORDER DOWN placed at 0.920 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.930 size=5.1
+[INFO] ORDER DOWN placed at 0.930 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.920 size=5.1
+[INFO] ORDER DOWN placed at 0.920 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.920 size=5.1
+[INFO] ORDER DOWN placed at 0.920 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.910 size=5.1
+[INFO] ORDER DOWN placed at 0.910 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.950 size=5.1
+[INFO] ORDER DOWN placed at 0.950 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.992 size=5.1
+[INFO] ORDER DOWN placed at 0.992 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773125100
+============================================================
+[INFO] WSS market  asset_ids: 91487913099858277978.. 12951672579252920688..
+[INFO] WSS user    condition_id: 0x94da5d3f280d9907..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773125100
+============================================================
+[INFO] WSS market  asset_ids: 91487913099858277978.. 12951672579252920688..
+[INFO] WSS user    condition_id: 0x94da5d3f280d9907..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773125100
+============================================================
+[INFO] WSS market  asset_ids: 91487913099858277978.. 12951672579252920688..
+[INFO] WSS user    condition_id: 0x94da5d3f280d9907..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773125100
+============================================================
+[INFO] WSS market  asset_ids: 91487913099858277978.. 12951672579252920688..
+[INFO] WSS user    condition_id: 0x94da5d3f280d9907..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773125100
+============================================================
+[INFO] WSS market  asset_ids: 91487913099858277978.. 12951672579252920688..
+[INFO] WSS user    condition_id: 0x94da5d3f280d9907..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126000
+============================================================
+[INFO] WSS market  asset_ids: 77339913940664963626.. 10337294616578490719..
+[INFO] WSS user    condition_id: 0x2916abf600e61a6b..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126000
+============================================================
+[INFO] WSS market  asset_ids: 77339913940664963626.. 10337294616578490719..
+[INFO] WSS user    condition_id: 0x2916abf600e61a6b..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126000
+============================================================
+[INFO] WSS market  asset_ids: 77339913940664963626.. 10337294616578490719..
+[INFO] WSS user    condition_id: 0x2916abf600e61a6b..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126000
+============================================================
+[INFO] WSS market  asset_ids: 77339913940664963626.. 10337294616578490719..
+[INFO] WSS user    condition_id: 0x2916abf600e61a6b..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126000
+============================================================
+[INFO] WSS market  asset_ids: 77339913940664963626.. 10337294616578490719..
+[INFO] WSS user    condition_id: 0x2916abf600e61a6b..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126900
+============================================================
+[INFO] WSS market  asset_ids: 11349562546149201619.. 44930007362345925224..
+[INFO] WSS user    condition_id: 0x80e0056673be4287..
+[INFO] Window ends in  900s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126900
+============================================================
+[INFO] WSS market  asset_ids: 11349562546149201619.. 44930007362345925224..
+[INFO] WSS user    condition_id: 0x80e0056673be4287..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126900
+============================================================
+[INFO] WSS market  asset_ids: 11349562546149201619.. 44930007362345925224..
+[INFO] WSS user    condition_id: 0x80e0056673be4287..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126900
+============================================================
+[INFO] WSS market  asset_ids: 11349562546149201619.. 44930007362345925224..
+[INFO] WSS user    condition_id: 0x80e0056673be4287..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126900
+============================================================
+[INFO] WSS market  asset_ids: 11349562546149201619.. 44930007362345925224..
+[INFO] WSS user    condition_id: 0x80e0056673be4287..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773126900
+============================================================
+[INFO] WSS market  asset_ids: 11349562546149201619.. 44930007362345925224..
+[INFO] WSS user    condition_id: 0x80e0056673be4287..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773127800
+============================================================
+[INFO] WSS market  asset_ids: 92726277502082908700.. 65313071654612553831..
+[INFO] WSS user    condition_id: 0x1961ff8e3d947ddc..
+[INFO] Window ends in  899s
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773127800
+============================================================
+[INFO] WSS market  asset_ids: 92726277502082908700.. 65313071654612553831..
+[INFO] WSS user    condition_id: 0x1961ff8e3d947ddc..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773127800
+============================================================
+[INFO] WSS market  asset_ids: 92726277502082908700.. 65313071654612553831..
+[INFO] WSS user    condition_id: 0x1961ff8e3d947ddc..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773127800
+============================================================
+[INFO] WSS market  asset_ids: 92726277502082908700.. 65313071654612553831..
+[INFO] WSS user    condition_id: 0x1961ff8e3d947ddc..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773127800
+============================================================
+[INFO] WSS market  asset_ids: 92726277502082908700.. 65313071654612553831..
+[INFO] WSS user    condition_id: 0x1961ff8e3d947ddc..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773128700
+============================================================
+[INFO] WSS market  asset_ids: 32135389453094414659.. 27602136384691769682..
+[INFO] WSS user    condition_id: 0xd324d9c97a4d329b..
+[INFO] Window ends in  900s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773128700
+============================================================
+[INFO] WSS market  asset_ids: 32135389453094414659.. 27602136384691769682..
+[INFO] WSS user    condition_id: 0xd324d9c97a4d329b..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773128700
+============================================================
+[INFO] WSS market  asset_ids: 32135389453094414659.. 27602136384691769682..
+[INFO] WSS user    condition_id: 0xd324d9c97a4d329b..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773128700
+============================================================
+[INFO] WSS market  asset_ids: 32135389453094414659.. 27602136384691769682..
+[INFO] WSS user    condition_id: 0xd324d9c97a4d329b..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773128700
+============================================================
+[INFO] WSS market  asset_ids: 32135389453094414659.. 27602136384691769682..
+[INFO] WSS user    condition_id: 0xd324d9c97a4d329b..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773129600
+============================================================
+[INFO] WSS market  asset_ids: 11159522672356372864.. 83722782064941851400..
+[INFO] WSS user    condition_id: 0x0a1b659aa5542a79..
+[INFO] Window ends in  900s
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773129600
+============================================================
+[INFO] WSS market  asset_ids: 11159522672356372864.. 83722782064941851400..
+[INFO] WSS user    condition_id: 0x0a1b659aa5542a79..
+[INFO] Window ends in  5s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773129600
+============================================================
+[INFO] WSS market  asset_ids: 11159522672356372864.. 83722782064941851400..
+[INFO] WSS user    condition_id: 0x0a1b659aa5542a79..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773129600
+============================================================
+[INFO] WSS market  asset_ids: 11159522672356372864.. 83722782064941851400..
+[INFO] WSS user    condition_id: 0x0a1b659aa5542a79..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773129600
+============================================================
+[INFO] WSS market  asset_ids: 11159522672356372864.. 83722782064941851400..
+[INFO] WSS user    condition_id: 0x0a1b659aa5542a79..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773129600
+============================================================
+[INFO] WSS market  asset_ids: 11159522672356372864.. 83722782064941851400..
+[INFO] WSS user    condition_id: 0x0a1b659aa5542a79..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773130500
+============================================================
+[INFO] WSS market  asset_ids: 29117418390723521856.. 55017783471784676337..
+[INFO] WSS user    condition_id: 0x8114f63b480443c9..
+[INFO] Window ends in  899s

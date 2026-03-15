@@ -1,0 +1,1508 @@
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=4921535042840673018 wei
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 1 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773082800
+============================================================
+[INFO] WSS market  asset_ids: 42234372523632343999.. 10524348929370839419..
+[INFO] WSS user    condition_id: 0x6bfca25d5e3dbc93..
+[INFO] Window ends in  657s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 1 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  95s
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 2 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  61s
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 2 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  50s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 2 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773086400
+============================================================
+[INFO] WSS market  asset_ids: 10217629071367098143.. 40704993265274274441..
+[INFO] WSS user    condition_id: 0x1b7255a80911c465..
+[INFO] Window ends in  27s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 2 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  671s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 3 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773088200
+============================================================
+[INFO] WSS market  asset_ids: 22846700263678314693.. 63686455540887757962..
+[INFO] WSS user    condition_id: 0xbb458a65318b5bcd..
+[INFO] Window ends in  645s
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 3 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773089100
+============================================================
+[INFO] WSS market  asset_ids: 86603313232792621796.. 81772119753708447237..
+[INFO] WSS user    condition_id: 0x0b33b08739d0f962..
+[INFO] Window ends in  92s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 4 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773089100
+============================================================
+[INFO] WSS market  asset_ids: 86603313232792621796.. 81772119753708447237..
+[INFO] WSS user    condition_id: 0x0b33b08739d0f962..
+[INFO] Window ends in  73s
+[INFO] ORDER UP placed at 0.998 size=5.1 status=400
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 4 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  598s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 5 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  572s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 5 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  466s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 5 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  450s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 5 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  425s
+[INFO] ORDER UP failed (check pair_orders / API logs)
+[INFO] ORDER UP failed (check pair_orders / API logs)
+[INFO] ORDER UP failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x82730E5e86aAdc4AA6b308f2535aF5B33c360AFb POL balance=0 wei
+[INFO] Skipping allowance approval: wallet has 0 POL for gas
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 5 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773090000
+============================================================
+[INFO] WSS market  asset_ids: 69685053795144340137.. 11155548057196894016..
+[INFO] WSS user    condition_id: 0x137eda65c5b489ec..
+[INFO] Window ends in  28s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  4s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  3s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  2s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  1s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773090900
+============================================================
+[INFO] WSS market  asset_ids: 10964772934553565647.. 43775840990132458977..
+[INFO] WSS user    condition_id: 0x1543e0aa29ccb4d7..
+[INFO] Window ends in  0s
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773091800
+============================================================
+[INFO] WSS market  asset_ids: 24491320204883510894.. 10816544283566942247..
+[INFO] WSS user    condition_id: 0x31fcbb08a0406f8e..
+[INFO] Window ends in  899s
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x3FD99cB5E3C0125ddEbd62b0609C3682AE9d354D POL balance=4892815199620098473 wei
+[INFO] Wallet balance check failed: Error: processing response error (body="{\"id\":63,\"jsonrpc\":\"2.0\",\"error\":{\"message\":\"transaction gas price below minimum: gas tip cap 1500000000, minimum needed 25000000000\",\"code\":-32000}}", error={"code":-32000}, requestBody="{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b28189058459682f0085316561c932830186a0944d97dcd97ec945f40cf65f87097ace5ea047604580b844a22cb465000000000000000000000000d91e80cf2e7be2e162c6513ced06f1dd0da352960000000000000000000000000000000000000000000000000000000000000001c001a0fe0067d5bcf3c01dcd2b602c31b2666395d6fd4061691b719853c7633358b9b5a05788e23472e58838da367a9087e8933cec21a2d5bfeabc5cbfafaa932990332c\"],\"id\":63,\"jsonrpc\":\"2.0\"}", requestMethod="POST", url="https://lb.drpc.live/polygon/Am2YpIyh80vYlL2TKvib8oOKVTZDET0R8bz9-uF7NYYO", code=SERVER_ERROR, version=web/5.8.0)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 7 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  682s
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] Placing REAL orders
+[INFO] Wallet 0x3FD99cB5E3C0125ddEbd62b0609C3682AE9d354D POL balance=4892815199620098473 wei
+[INFO] Wallet balance check failed: Error: processing response error (body="{\"id\":63,\"jsonrpc\":\"2.0\",\"error\":{\"message\":\"transaction gas price below minimum: gas tip cap 1500000000, minimum needed 25000000000\",\"code\":-32000}}", error={"code":-32000}, requestBody="{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b28189058459682f0085355dbcafd0830186a0944d97dcd97ec945f40cf65f87097ace5ea047604580b844a22cb465000000000000000000000000d91e80cf2e7be2e162c6513ced06f1dd0da352960000000000000000000000000000000000000000000000000000000000000001c080a08b5eb5f651ad0c82f58e5ba28fc2365672fa27de7ade8160c11d342265a762baa03097abcceb3150f71c64db7da31d9fb62388e59b049fe4d8aaf33eaedc0fedd6\"],\"id\":63,\"jsonrpc\":\"2.0\"}", requestMethod="POST", url="https://lb.drpc.live/polygon/Am2YpIyh80vYlL2TKvib8oOKVTZDET0R8bz9-uF7NYYO", code=SERVER_ERROR, version=web/5.8.0)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 8 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773093600
+============================================================
+[INFO] WSS market  asset_ids: 10649405180897884569.. 39925229310127888541..
+[INFO] WSS user    condition_id: 0xb9c9c28c33d82ae2..
+[INFO] Window ends in  661s
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+[INFO] ORDER DOWN failed (check pair_orders / API logs)
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 8 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773094500
+============================================================
+[INFO] WSS market  asset_ids: 45612422135202521623.. 47162567749446819378..
+[INFO] WSS user    condition_id: 0xbe9c7dbc9f6d90f1..
+[INFO] Window ends in  815s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.690 size=5.1
+[INFO] ORDER DOWN placed at 0.690 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.690 size=5.1
+[INFO] ORDER DOWN placed at 0.690 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.680 size=5.1
+[INFO] ORDER DOWN placed at 0.680 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.670 size=5.1
+[INFO] ORDER DOWN placed at 0.670 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.750 size=5.1
+[INFO] ORDER DOWN placed at 0.750 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.790 size=5.1
+[INFO] ORDER DOWN placed at 0.790 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.790 size=5.1
+[INFO] ORDER DOWN placed at 0.790 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.780 size=5.1
+[INFO] ORDER DOWN placed at 0.780 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.770 size=5.1
+[INFO] ORDER DOWN placed at 0.770 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.760 size=5.1
+[INFO] ORDER DOWN placed at 0.760 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.720 size=5.1
+[INFO] ORDER DOWN placed at 0.720 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.720 size=5.1
+[INFO] ORDER DOWN placed at 0.720 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.710 size=5.1
+[INFO] ORDER DOWN placed at 0.710 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.700 size=5.1
+[INFO] ORDER DOWN placed at 0.700 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.710 size=5.1
+[INFO] ORDER DOWN placed at 0.710 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.700 size=5.1
+[INFO] ORDER DOWN placed at 0.700 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.700 size=5.1
+[INFO] ORDER DOWN placed at 0.700 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.690 size=5.1
+[INFO] ORDER DOWN placed at 0.690 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.680 size=5.1
+[INFO] ORDER DOWN placed at 0.680 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.650 size=5.1
+[INFO] ORDER DOWN placed at 0.650 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.540 size=5.1
+[INFO] ORDER UP placed at 0.540 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.560 size=5.1
+[INFO] ORDER DOWN placed at 0.560 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.600 size=5.1
+[INFO] ORDER DOWN placed at 0.600 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.590 size=5.1
+[INFO] ORDER DOWN placed at 0.590 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.590 size=5.1
+[INFO] ORDER DOWN placed at 0.590 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.580 size=5.1
+[INFO] ORDER DOWN placed at 0.580 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.600 size=5.1
+[INFO] ORDER DOWN placed at 0.600 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.570 size=5.1
+[INFO] ORDER DOWN placed at 0.570 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.630 size=5.1
+[INFO] ORDER DOWN placed at 0.630 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.700 size=5.1
+[INFO] ORDER DOWN placed at 0.700 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.670 size=5.1
+[INFO] ORDER DOWN placed at 0.670 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.670 size=5.1
+[INFO] ORDER DOWN placed at 0.670 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.700 size=5.1
+[INFO] ORDER DOWN placed at 0.700 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.680 size=5.1
+[INFO] ORDER DOWN placed at 0.680 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.680 size=5.1
+[INFO] ORDER DOWN placed at 0.680 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.710 size=5.1
+[INFO] ORDER DOWN placed at 0.710 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.660 size=5.1
+[INFO] ORDER DOWN placed at 0.660 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.670 size=5.1
+[INFO] ORDER DOWN placed at 0.670 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.670 size=5.1
+[INFO] ORDER DOWN placed at 0.670 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.560 size=5.1
+[INFO] ORDER DOWN placed at 0.560 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.540 size=5.1
+[INFO] ORDER UP placed at 0.540 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.630 size=5.1
+[INFO] ORDER UP placed at 0.630 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.740 size=5.1
+[INFO] ORDER UP placed at 0.740 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.690 size=5.1
+[INFO] ORDER UP placed at 0.690 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.700 size=5.1
+[INFO] ORDER UP placed at 0.700 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.690 size=5.1
+[INFO] ORDER UP placed at 0.690 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.680 size=5.1
+[INFO] ORDER UP placed at 0.680 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.660 size=5.1
+[INFO] ORDER UP placed at 0.660 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.630 size=5.1
+[INFO] ORDER UP placed at 0.630 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.570 size=5.1
+[INFO] ORDER UP placed at 0.570 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.550 size=5.1
+[INFO] ORDER UP placed at 0.550 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.740 size=5.1
+[INFO] ORDER UP placed at 0.740 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.730 size=5.1
+[INFO] ORDER UP placed at 0.730 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.700 size=5.1
+[INFO] ORDER UP placed at 0.700 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.640 size=5.1
+[INFO] ORDER UP placed at 0.640 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.630 size=5.1
+[INFO] ORDER UP placed at 0.630 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.630 size=5.1
+[INFO] ORDER UP placed at 0.630 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.630 size=5.1
+[INFO] ORDER UP placed at 0.630 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.590 size=5.1
+[INFO] ORDER UP placed at 0.590 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.560 size=5.1
+[INFO] ORDER UP placed at 0.560 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.550 size=5.1
+[INFO] ORDER UP placed at 0.550 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.540 size=5.1
+[INFO] ORDER UP placed at 0.540 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.530 size=5.1
+[INFO] ORDER DOWN placed at 0.530 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.570 size=5.1
+[INFO] ORDER UP placed at 0.570 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.680 size=5.1
+[INFO] ORDER UP placed at 0.680 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.660 size=5.1
+[INFO] ORDER UP placed at 0.660 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.750 size=5.1
+[INFO] ORDER UP placed at 0.750 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.560 size=5.1
+[INFO] ORDER UP placed at 0.560 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.560 size=5.1
+[INFO] ORDER UP placed at 0.560 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.560 size=5.1
+[INFO] ORDER UP placed at 0.560 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.520 size=5.1
+[INFO] ORDER DOWN placed at 0.520 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.610 size=5.1
+[INFO] ORDER DOWN placed at 0.610 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.560 size=5.1
+[INFO] ORDER DOWN placed at 0.560 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.560 size=5.1
+[INFO] ORDER DOWN placed at 0.560 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.560 size=5.1
+[INFO] ORDER DOWN placed at 0.560 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.540 size=5.1
+[INFO] ORDER DOWN placed at 0.540 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.550 size=5.1
+[INFO] ORDER DOWN placed at 0.550 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.640 size=5.1
+[INFO] ORDER DOWN placed at 0.640 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.620 size=5.1
+[INFO] ORDER DOWN placed at 0.620 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.590 size=5.1
+[INFO] ORDER DOWN placed at 0.590 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place UP at 0.650 size=5.1
+[INFO] ORDER UP placed at 0.650 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.640 size=5.1
+[INFO] ORDER UP placed at 0.640 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.630 size=5.1
+[INFO] ORDER UP placed at 0.630 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.650 size=5.1
+[INFO] ORDER UP placed at 0.650 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.660 size=5.1
+[INFO] ORDER UP placed at 0.660 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.650 size=5.1
+[INFO] ORDER UP placed at 0.650 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.640 size=5.1
+[INFO] ORDER UP placed at 0.640 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  5s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  900s
+[INFO] User WSS skipped (auth/auth.json not found)
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 11 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  96s
+[INFO] User WSS skipped (auth/auth.json not found)
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 11 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773095400
+============================================================
+[INFO] WSS market  asset_ids: 58888593746019472310.. 84907885444627921618..
+[INFO] WSS user    condition_id: 0xe28dd18655e874f7..
+[INFO] Window ends in  7s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  5s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  5s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773096300
+============================================================
+[INFO] WSS market  asset_ids: 37434103282987447910.. 33366334033093531270..
+[INFO] WSS user    condition_id: 0xce2ef75e19c9ae66..
+[INFO] Window ends in  0s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  900s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  899s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  5s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773097200
+============================================================
+[INFO] WSS market  asset_ids: 38232299768156677591.. 61316242497459933847..
+[INFO] WSS user    condition_id: 0xa3be562b5f441a99..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  900s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  34s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  5s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773098100
+============================================================
+[INFO] WSS market  asset_ids: 97716983627699266776.. 11537922934831423399..
+[INFO] WSS user    condition_id: 0x20e42c21a0eb66d0..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  900s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.530 size=5.1
+[INFO] ORDER UP placed at 0.530 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  5s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  900s
+[INFO] User WSS skipped (auth/auth.json not found)
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 15 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773099000
+============================================================
+[INFO] WSS market  asset_ids: 15867914543620909565.. 10568240938911998532..
+[INFO] WSS user    condition_id: 0x623491edecb8409e..
+[INFO] Window ends in  189s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  5s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773099900
+============================================================
+[INFO] WSS market  asset_ids: 53628642418765098848.. 10288447302097611544..
+[INFO] WSS user    condition_id: 0xa91a9502d291e651..
+[INFO] Window ends in  0s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  899s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] DRY RUN would place UP at 0.510 size=5.1
+[INFO] ORDER UP placed at 0.510 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  1s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773100800
+============================================================
+[INFO] WSS market  asset_ids: 28287560136151296494.. 10210608784081474067..
+[INFO] WSS user    condition_id: 0x95f297d91d7534ee..
+[INFO] Window ends in  0s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  899s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  456s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] DRY RUN would place UP at 0.520 size=5.1
+[INFO] ORDER UP placed at 0.520 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.500 size=5.1
+[INFO] ORDER UP placed at 0.500 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.580 size=5.1
+[INFO] ORDER UP placed at 0.580 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.580 size=5.1
+[INFO] ORDER UP placed at 0.580 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.590 size=5.1
+[INFO] ORDER UP placed at 0.590 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] DRY RUN would place UP at 0.580 size=5.1
+[INFO] ORDER UP placed at 0.580 size=5.1 status=live
+[INFO] ORDER UP cancelled order_id=dry-run-up..
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  4s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  3s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+============================================================
+  Market  btc-updown-15m-1773101700
+============================================================
+[INFO] WSS market  asset_ids: 96981538159855016173.. 48862385687804352468..
+[INFO] WSS user    condition_id: 0x3a28950b805ce436..
+[INFO] Window ends in  2s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] Switching to new 15m market...
+[INFO] AUTO_REDEEM would schedule in 120s for previous market (onchain not wired)
+
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 24 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773306900
+============================================================
+[INFO] WSS market  asset_ids: 91148961464312787032.. 98406474417119027637..
+[INFO] WSS user    condition_id: 0x44d05db9abc590a8..
+[INFO] Window ends in  215s
+[INFO] User WSS skipped (auth/auth.json not found)
+[INFO] DRY RUN would place DOWN at 0.900 size=5.1
+[INFO] ORDER DOWN placed at 0.900 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+[INFO] DRY RUN would place DOWN at 0.877 size=5.1
+[INFO] ORDER DOWN placed at 0.877 size=5.1 status=live
+[INFO] ORDER DOWN cancelled order_id=dry-run-down..
+
+============================================================
+  Startup
+============================================================
+[INFO] DRY RUN - no real orders (set DRY_RUN=0 to enable)
+[INFO] Portfolio init skipped (STARTING_CASH not set)
+[INFO] PAIR_ORDER_LIMIT=4  PAUSE_WAIT_SEC=5  LIMIT_PAUSE_COUNT=5  REBALANCE_SIZE=3  REBALANCE_ORDER_SIZE=default
+[INFO] STARTUP would redeem 25 unredeemed market(s) (onchain not wired)
+
+============================================================
+  WSS market + user (auto-switch on new 15m window)
+============================================================
+
+============================================================
+  Market  btc-updown-15m-1773306900
+============================================================
+[INFO] WSS market  asset_ids: 91148961464312787032.. 98406474417119027637..
+[INFO] WSS user    condition_id: 0x44d05db9abc590a8..
+[INFO] Window ends in  154s
+[INFO] User WSS skipped (auth/auth.json not found)

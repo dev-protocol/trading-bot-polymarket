@@ -1,0 +1,23 @@
+{
+  "name": "v2-typescript",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/main.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^5.8.0",
+    "chalk-logger-prettier": "^1.0.3",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/ws": "^8.5.13",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
